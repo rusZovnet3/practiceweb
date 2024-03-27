@@ -14,7 +14,6 @@
 		<ul>CSS</ul>
 		<ul>JS</ul>
 		<ul>PHP</ul>
-		<ul>Python</ul>
 	</li>
 	<p>Lorem ipsum dolor sit amet.</p>
 </body>
